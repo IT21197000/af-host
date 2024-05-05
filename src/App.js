@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import ManiNavbar from './Component/ManiNavbar'; // Make sure to import ManiNavbar component
 import Mainpage from './Screen/Mainpage'; // Make sure to import Mainpage component
 import About from './Screen/About'; // Make sure to import About component
